@@ -13,11 +13,11 @@ export const Sec3 = () => {
                     </div>
                 </div>
                 <div className='cajatexto col-md-6 float-right'>
-                    <h1>Trabajamos para ti</h1>
+                    <h1>TRABAJAMOS PARA TI</h1>
                     <p>
-                        Nuestra prioridad eres tú, por eso siempre trabajamos
-                        para mantener los tiempos de entrega de los pedidos lo
-                        mas bajos posible, no queremos hacerte esperar.
+                        Nuestra prioridad eres tú, por eso nos esforzamos al
+                        máximo para mantener los tiempos de entrega en el menos
+                        tiempo posible, no queremos hacerte esperar.
                     </p>
 
                     <button className='btn btn-dark'>Hazte Cliente</button>

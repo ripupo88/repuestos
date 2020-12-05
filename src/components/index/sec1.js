@@ -5,18 +5,20 @@ export const Sec1 = () => {
         <div className='shadow-sm'>
             <div className='row m-0 p-0 pb-5'>
                 <div className='cajatexto col-md-6 ml-4'>
-                    <h1>Repuestos automotrices</h1>
+                    <h1>REPUESTOS AUTOMOTRICES</h1>
                     <p>
                         Somos una empresa distribuidora de repuestos
-                        automotrices ubicados en Quito, Ecuador. Nuestra mision
-                        es satisfacer las necesidades de nuestros clientes y del
-                        mercado; ofreciendo productos de calidad acompañado de
-                        una excelente atención y servicio en compañía de un
-                        recurso humano altamente comprometido en brindarle la
-                        mejor experiencia
+                        automotrices ubicados en el Norte de Quito, Ecuador.
+                        Nuestra misión es satisfacer las necesidades de nuestros
+                        clientes y del mercado; ofreciendo productos de una alta
+                        calidad, acompañado de una excelente atención y servicio
+                        en compañía de un recurso humano altamente capacitado
+                        comprometido en brindarle la mejor experiencia
                     </p>
                     <div className='float-right'>
-                        <button className='btn btn-dark'>Catalogo</button>
+                        <a href='/cat.pdf' class='btn btn-dark'>
+                            Catalogo
+                        </a>
                     </div>
                 </div>
 

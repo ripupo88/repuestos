@@ -8,17 +8,18 @@ export const Sec2 = () => {
                     <img className='w-100' src='./assets/img/filter.png' />
                 </div>
                 <div className='cajatexto col-md-6 ml-4'>
-                    <h2>Nuestra garantia</h2>
+                    <h2>NUESTRA GARANTIA</h2>
                     <p>
-                        Nuestros precios competitivos no son sinonimo de mala
-                        calidad, al contrario, nos caracteriza la excelencia en
-                        la calidad de nuestros productos porque trabajamos
-                        siempre con primeras marcas, gracias a esto podemos
-                        garantizar nuestros productos para que te puedas sentir
-                        tranquilo
+                        Nuestros precios competitivos nos hace únicos, nos
+                        caracteriza la calidad de nuestros productos, trabajamos
+                        con las mejores marcas pudiendo garantizalas para la
+                        satisfaccion y tranquilidad de los clientes, porque tú
+                        eres nuestra proridad
                     </p>
                     <div className='float-right'>
-                        <button className='btn btn-dark'>Catalogo</button>
+                        <a href='/cat.pdf' class='btn btn-dark'>
+                            Catalogo
+                        </a>
                     </div>
                 </div>
             </div>
