@@ -2,7 +2,7 @@ import React from 'react';
 
 export const Sec3 = () => {
     return (
-        <div className='shadow-sm'>
+        <div className='shadow-sm page bgblue'>
             <div className='row m-0 p-0 pt-5 pb-5'>
                 <div className='cajatexto col-md-6 m-0 p-0'>
                     <div className='errsweesw w-100 '>

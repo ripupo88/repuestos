@@ -2,7 +2,7 @@ import React from 'react';
 
 export const Sec1 = () => {
     return (
-        <div className='shadow-sm'>
+        <div className='shadow-sm page bgblue'>
             <div className='row m-0 p-0 pb-5'>
                 <div className='cajatexto col-md-6 ml-4'>
                     <h1>REPUESTOS AUTOMOTRICES</h1>
@@ -17,7 +17,7 @@ export const Sec1 = () => {
                     </p>
                     <div className='float-right'>
                         <a href='/cat.pdf' class='btn btn-dark'>
-                            Catalogo
+                            Catálogo
                         </a>
                     </div>
                 </div>

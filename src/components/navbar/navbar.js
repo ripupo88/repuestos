@@ -40,8 +40,8 @@ export const Navbar = () => {
                         </a>
                     </li>
                     <li class='nav-item'>
-                        <a href='/cat.pdf' class='nav-link'>
-                            Catalogo
+                        <a href='/cat.pdf' className='nav-link'>
+                            Catálogo
                         </a>
                     </li>
                     <li class='nav-item'>

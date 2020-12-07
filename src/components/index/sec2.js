@@ -2,7 +2,7 @@ import React from 'react';
 
 export const Sec2 = () => {
     return (
-        <div className='shadow-sm'>
+        <div className='shadow-sm page'>
             <div className='row m-0 p-0 pb-5'>
                 <div className='col-md-5 pt-5'>
                     <img className='w-100' src='./assets/img/filter.png' />
@@ -18,7 +18,7 @@ export const Sec2 = () => {
                     </p>
                     <div className='float-right'>
                         <a href='/cat.pdf' class='btn btn-dark'>
-                            Catalogo
+                            Catálogo
                         </a>
                     </div>
                 </div>

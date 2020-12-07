@@ -14,6 +14,11 @@ h2 {
     font-size: 50px;
     margin-top: 1em;
 }
+h3 {
+    font-size: 40px;
+    margin-top: 1em;
+    text-align: left;
+}
 p {
     font-size: 1.5em;
     color: #333355bb;
@@ -34,4 +39,29 @@ p {
     p {
         font-size: 18px;
     }
+}
+
+.icon {
+    width: 30px;
+    height: 30px;
+}
+.flexbox {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.flexbox p {
+    margin: 0;
+    margin-left: 15px;
+}
+.page {
+    min-height: 100vh;
+}
+
+.bgblue {
+    background-color: #daeaff;
+}
+.bgdark {
+    background-color: rgb(212, 212, 212);
 }
