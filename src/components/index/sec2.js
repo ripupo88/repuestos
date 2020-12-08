@@ -8,7 +8,7 @@ export const Sec2 = () => {
                     <img className='w-100' src='./assets/img/filter.png' />
                 </div>
                 <div className='cajatexto col-md-6 ml-4'>
-                    <h2>NUESTRA GARANTIA</h2>
+                    <h2>NUESTRA GARANTÍA</h2>
                     <p>
                         Nuestros precios competitivos nos hace únicos, nos
                         caracteriza la calidad de nuestros productos, trabajamos

@@ -12,7 +12,7 @@ export const Sec1 = () => {
                         Nuestra misión es satisfacer las necesidades de nuestros
                         clientes y del mercado; ofreciendo productos de una alta
                         calidad, acompañado de una excelente atención y servicio
-                        en compañía de un recurso humano altamente capacitado
+                        en compañía de un recurso humano altamente capacitado,
                         comprometido en brindarle la mejor experiencia
                     </p>
                     <div className='float-right'>

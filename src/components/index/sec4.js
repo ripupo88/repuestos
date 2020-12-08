@@ -11,7 +11,7 @@ export const Sec4 = () => {
                         través de nuestros números de teléfono, así como también
                         WhatsApp o Telegram. Escríbanos sin dudar para aclarar
                         cualquier duda, además para consultar stock y descuentos
-                        aplicables. Estamos para solucionar a cualquier
+                        aplicables. Estamos para solucionar cualquier
                         requerimiento.
                     </p>
                 </div>
