@@ -29,6 +29,7 @@ function MyApp({ Component, pageProps }) {
                         }
 
                         footer p {
+                            margin: 0;
                             color: #cdcdcd;
                             font-size: 1em;
                             padding: 40px 0;
