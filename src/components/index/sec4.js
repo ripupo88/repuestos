@@ -28,7 +28,7 @@ export const Sec4 = () => {
                             className='iconsvg'
                             src='./assets/img/calend.svg'
                         ></img>
-                        <p>Lunes a Sabado</p>
+                        <p>Lunes a Sábado</p>
                     </div>
                     <div className='flexbox'>
                         <img

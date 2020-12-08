@@ -16,7 +16,7 @@ export const Sec3 = () => {
                     <h1>TRABAJAMOS PARA TI</h1>
                     <p>
                         Nuestra prioridad eres tú, por eso nos esforzamos al
-                        máximo para mantener los tiempos de entrega en el menos
+                        máximo para mantener los tiempos de entrega en el menor
                         tiempo posible, no queremos hacerte esperar.
                     </p>
 

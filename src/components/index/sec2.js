@@ -12,9 +12,9 @@ export const Sec2 = () => {
                     <p>
                         Nuestros precios competitivos nos hace únicos, nos
                         caracteriza la calidad de nuestros productos, trabajamos
-                        con las mejores marcas pudiendo garantizalas para la
-                        satisfaccion y tranquilidad de los clientes, porque tú
-                        eres nuestra proridad
+                        con las mejores marcas pudiendo garantizarlas para la
+                        satisfacción y tranquilidad de los clientes, porque tú
+                        eres nuestra prioridad.
                     </p>
                     <div className='float-right'>
                         <a href='/cat.pdf' class='btn btn-dark'>
