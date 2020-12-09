@@ -8,10 +8,10 @@ export const Sec1a = () => {
                     <h2 className='text-center'>Nuestras Marcas</h2>
                     <div className='ml-md-5 mr-md-5'>
                         <p>
-                            Una parte importante de nuestro compromiso es ofrece
-                            un producto de primera categoría, es por esto que
-                            solo trabajamos con las marcas que nos dan como
-                            valor principal máxima confianza en la calidad de
+                            Una parte importante de nuestro compromiso es
+                            ofrecer un producto de primera categoría, es por eso
+                            que solo trabajamos con las marcas que nos dan como
+                            valor principal, máxima confianza en la calidad de
                             sus productos{' '}
                         </p>
                     </div>
