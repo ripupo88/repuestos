@@ -50,7 +50,15 @@ p {
     justify-content: left;
     align-items: center;
 }
+.flexbox-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
+.flexbox-center img {
+    width: 305px;
+}
 .flexbox p {
     margin: 0;
     margin-left: 15px;
@@ -64,4 +72,10 @@ p {
 }
 .bgdark {
     background-color: rgb(212, 212, 212);
+}
+.bgdark2 {
+    background-color: rgb(174, 172, 189);
+}
+.mxw {
+    max-width: 600px;
 }
