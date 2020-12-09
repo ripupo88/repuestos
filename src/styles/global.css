@@ -57,14 +57,11 @@ p {
 }
 
 .flexbox-center img {
-    width: 305px;
+    max-width: 30%;
 }
 .flexbox p {
     margin: 0;
     margin-left: 15px;
-}
-.page {
-    min-height: 100vh;
 }
 
 .bgblue {
@@ -75,7 +72,4 @@ p {
 }
 .bgdark2 {
     background-color: rgb(174, 172, 189);
-}
-.mxw {
-    max-width: 600px;
 }

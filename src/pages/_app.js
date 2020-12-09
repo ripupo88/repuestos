@@ -6,21 +6,25 @@ function MyApp({ Component, pageProps }) {
     return (
         <>
             <Head>
+                <meta
+                    name='viewport'
+                    content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no'
+                />
                 <title>Create Next App</title>
                 <link rel='icon' href='/favicon.ico' />
             </Head>
 
-            <div className='container-fluid p-0 m-0'>
-                <div className='row p-0 m-0'>
+            <div className='container-fluid m-0 p-0'>
+                <div className=''>
                     <Component {...pageProps} />
+                    <footer className='col-12'>
+                        <p>
+                            Copyright &copy; 2020{' '}
+                            <img src='./rpr-logo.svg' alt='logo' /> All Rights
+                            Reserved.
+                        </p>
+                    </footer>
                 </div>
-                <footer>
-                    <p>
-                        Copyright &copy; 2020{' '}
-                        <img src='./rpr-logo.svg' alt='logo' /> All Rights
-                        Reserved.
-                    </p>
-                </footer>
                 <style jsx>
                     {`
                         footer {

@@ -7,7 +7,7 @@ export const Sec2 = () => {
                 <div className='col-md-5 pt-5'>
                     <img className='w-100' src='./assets/img/filter.png' />
                 </div>
-                <div className='cajatexto col-md-6 ml-4'>
+                <div className='cajatexto col-md-6 ml-md-4'>
                     <h2>GARANTÍA</h2>
                     <p>
                         Nuestros precios competitivos nos hace únicos, nos
