@@ -5,7 +5,11 @@ export const Sec2 = () => {
         <div className='shadow-sm page bgdark2'>
             <div className='row m-0 p-0 pb-5'>
                 <div className='col-md-5 pt-5'>
-                    <img className='w-100' src='./assets/img/filter.png' />
+                    <img
+                        alt='Filtro de aceite'
+                        className='w-100'
+                        src='./assets/img/filter.png'
+                    />
                 </div>
                 <div className='cajatexto col-md-6 ml-md-4'>
                     <h2>Garantía</h2>
@@ -17,8 +21,8 @@ export const Sec2 = () => {
                         eres nuestra prioridad.
                     </p>
                     <div className='float-right'>
-                        <a href='/cat.pdf' class='btn btn-dark'>
-                            Catálogo
+                        <a href='/cat.pdf' className='btn btn-dark'>
+                            Ver Catálogo
                         </a>
                     </div>
                 </div>

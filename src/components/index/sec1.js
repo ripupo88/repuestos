@@ -16,14 +16,18 @@ export const Sec1 = () => {
                         comprometido en brindarle la mejor experiencia
                     </p>
                     <div className='float-right'>
-                        <a href='/cat.pdf' class='btn btn-dark'>
-                            Catálogo
+                        <a href='/cat.pdf' className='btn btn-dark'>
+                            Ver Catálogo
                         </a>
                     </div>
                 </div>
 
                 <div className='col-md-5 pt-5'>
-                    <img className='w-100' src='./assets/img/cars.jpg' />
+                    <img
+                        alt='Car parts'
+                        className='w-100'
+                        src='./assets/img/cars.jpg'
+                    />
                 </div>
             </div>
             <style jsx>

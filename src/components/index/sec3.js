@@ -7,13 +7,14 @@ export const Sec3 = () => {
                 <div className='cajatexto col-md-6 m-0 p-0'>
                     <div className='errsweesw w-100 '>
                         <img
+                            alt='Trato hecho'
                             className='shadow-sm m-0 p-0 img-fluid'
                             src='./assets/img/agree.png'
                         />
                     </div>
                 </div>
                 <div className='cajatexto col-md-6 float-right'>
-                    <h1>Tabajamos para ti</h1>
+                    <h2>Tabajamos para ti</h2>
                     <p>
                         Nuestra prioridad eres tú, por eso nos esforzamos al
                         máximo para mantener los tiempos de entrega en el menor

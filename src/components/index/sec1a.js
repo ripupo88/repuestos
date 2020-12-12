@@ -16,12 +16,18 @@ export const Sec1a = () => {
                         </p>
                     </div>
                     <div className='flexbox-center'>
-                        <img className='img-fluid' src='./assets/img/rw.jpg' />
                         <img
+                            alt='Marca 1'
+                            className='img-fluid'
+                            src='./assets/img/rw.jpg'
+                        />
+                        <img
+                            alt='Marca 2'
                             className='img-fluid'
                             src='./assets/img/ranger.jpg'
                         />
                         <img
+                            alt='Marca 3'
                             className='img-fluid'
                             src='./assets/img/lesser.jpg'
                         />

@@ -18,6 +18,7 @@ export const Sec4 = () => {
                 <div className='cajatexto col-md-5 m-5 p-0'>
                     <div className='flexbox'>
                         <img
+                            alt='icono reloj'
                             className='iconsvg'
                             src='./assets/img/clock.svg'
                         ></img>
@@ -25,6 +26,7 @@ export const Sec4 = () => {
                     </div>
                     <div className='flexbox'>
                         <img
+                            alt='Icono calendario'
                             className='iconsvg'
                             src='./assets/img/calend.svg'
                         ></img>
@@ -32,18 +34,24 @@ export const Sec4 = () => {
                     </div>
                     <div className='flexbox'>
                         <img
+                            alt='Icono whatsapp'
                             className='icon'
                             src='./assets/img/whatsapp.png'
                         ></img>
                         <p> 099 53 14 560</p>
                     </div>
                     <div className='flexbox'>
-                        <img className='icon' src='./assets/img/mail.svg'></img>
+                        <img
+                            alt='icono correo'
+                            className='icon'
+                            src='./assets/img/mail.svg'
+                        ></img>
                         <p> ronald040982@yahoo.es</p>
                     </div>
                 </div>
 
                 <iframe
+                    title='Google Maps'
                     src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d997.4535888365045!2d-78.42372680765344!3d-0.0807760374888518!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d58ed0c4b58729%3A0x288de5f0a10d35b!2sConjunto%20Cibeles%202!5e0!3m2!1ses!2ses!4v1607393957216!5m2!1ses!2ses'
                     width='100%'
                     height='450'

@@ -3,16 +3,19 @@ import './navbar.module.css';
 
 export const Navbar = () => {
     return (
-        <nav class='navbar navbar-expand-lg navbar-light  shadow-sm'>
-            <a href='#' class='navbar-brand'>
+        <nav className='navbar navbar-expand-lg navbar-light  shadow-sm'>
+            <a href='/home' className='navbar-brand'>
                 <img
+                    alt='Logo de la empresa'
                     src='./rpr-logo.svg'
                     width='85'
                     alt=''
-                    class='d-inline-block align-middle mr-2'
+                    className='d-inline-block align-middle mr-2'
                 />
 
-                <span class='text-uppercase font-weight-bold'></span>
+                <span className='text-uppercase font-weight-bold'>
+                    Repuestos Ocaña
+                </span>
             </a>
 
             <button
@@ -22,30 +25,33 @@ export const Navbar = () => {
                 aria-controls='navbarSupportedContent'
                 aria-expanded='false'
                 aria-label='Toggle navigation'
-                class='navbar-toggler'
+                className='navbar-toggler'
             >
-                <span class='navbar-toggler-icon'></span>
+                <span className='navbar-toggler-icon'></span>
             </button>
 
-            <div id='navbarSupportedContent' class='collapse navbar-collapse'>
-                <ul class='navbar-nav ml-auto'>
-                    <li class='nav-item active'>
-                        <a href='#' class='nav-link'>
-                            Home <span class='sr-only'>(current)</span>
+            <div
+                id='navbarSupportedContent'
+                className='collapse navbar-collapse'
+            >
+                <ul className='navbar-nav ml-auto'>
+                    <li className='nav-item active'>
+                        <a href='#' className='nav-link'>
+                            Home <span className='sr-only'>(current)</span>
                         </a>
                     </li>
-                    <li class='nav-item'>
-                        <a href='#' class='nav-link'>
+                    <li className='nav-item'>
+                        <a href='#' className='nav-link'>
                             Nosotros
                         </a>
                     </li>
-                    <li class='nav-item'>
+                    <li className='nav-item'>
                         <a href='/cat.pdf' className='nav-link'>
                             Catálogo
                         </a>
                     </li>
-                    <li class='nav-item'>
-                        <a href='#' class='nav-link'>
+                    <li className='nav-item'>
+                        <a href='#' className='nav-link'>
                             Contacto
                         </a>
                     </li>
