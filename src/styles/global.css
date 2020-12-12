@@ -22,6 +22,7 @@ h3 {
 p {
     font-size: 1.5em;
     color: #26263adc;
+    line-height: 1.6em;
 }
 .rprshadow {
     -webkit-box-shadow: 2px 29px 132px 0px rgba(0, 0, 0, 0.5);

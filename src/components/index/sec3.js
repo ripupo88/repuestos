@@ -9,7 +9,7 @@ export const Sec3 = () => {
                         <img
                             alt='Trato hecho'
                             className='shadow-sm m-0 p-0 img-fluid'
-                            src='./assets/img/agree.png'
+                            src='./assets/img/agree.jpg'
                         />
                     </div>
                 </div>

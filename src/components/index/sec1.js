@@ -24,6 +24,7 @@ export const Sec1 = () => {
 
                 <div className='col-md-5 pt-5'>
                     <img
+                        width='650'
                         alt='Car parts'
                         className='w-100'
                         src='./assets/img/cars.jpg'
