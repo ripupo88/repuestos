@@ -58,6 +58,7 @@ p {
 }
 
 .flexbox-center img {
+    margin: auto;
     max-width: 30%;
 }
 .flexbox p {
