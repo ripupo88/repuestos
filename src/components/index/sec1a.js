@@ -19,17 +19,17 @@ export const Sec1a = () => {
                         <img
                             alt='Marca 1'
                             className='img-fluid'
-                            src='./assets/img/hyundai.jpg'
+                            src='./assets/img/rw.jpg'
                         />
                         <img
                             alt='Marca 2'
                             className='img-fluid'
-                            src='./assets/img/isuzu.jpg'
+                            src='./assets/img/ranger.jpg'
                         />
                         <img
                             alt='Marca 3'
                             className='img-fluid'
-                            src='./assets/img/toyota.jpg'
+                            src='./assets/img/lesser.jpg'
                         />
                     </div>
                 </div>
