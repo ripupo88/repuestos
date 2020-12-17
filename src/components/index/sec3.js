@@ -26,10 +26,15 @@ export const Sec3 = () => {
                             height: 20%;
                             background-image: url('./assets/img/bigagree.jpg');
                             background-attachment: fixed;
-                            background-size: 100%;
+                            background-size: auto 100vh;
                             overflow: fill;
                             background-position: center center;
                             background-repeat: no-repeat;
+                        }
+                        @media (min-width: 900px) {
+                            .fondofijo {
+                                background-size: 100% auto;
+                            }
                         }
                         .num {
                             font-size: 100px;

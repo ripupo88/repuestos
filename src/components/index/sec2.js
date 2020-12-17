@@ -1,4 +1,5 @@
 import React from 'react';
+import Typewriter from 'typewriter-effect';
 
 export const Sec2 = () => {
     return (
@@ -12,7 +13,18 @@ export const Sec2 = () => {
                     />
                 </div>
                 <div className='cajatexto col-md-6 ml-md-4'>
-                    <h2>Garantía</h2>
+                    <h2>
+                        <Typewriter
+                            options={{
+                                strings: [
+                                    'Nuestra Garantía',
+                                    'Producto Garantizado',
+                                ],
+                                autoStart: true,
+                                loop: true,
+                            }}
+                        />
+                    </h2>
                     <p>
                         Nuestros precios competitivos nos hace únicos, nos
                         caracteriza la calidad de nuestros productos, trabajamos
