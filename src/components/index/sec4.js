@@ -10,7 +10,7 @@ export const Sec4 = () => {
                         Estamos a su entera disposición. Puede contactarnos a
                         través de nuestros números de teléfono, así como también
                         <a href='https://wa.me/593995314560'> WhatsApp</a> o
-                        Telegram.
+                        <a href='https://t.me/repocana'> Telegram.</a>
                         <a href='mailto:ronald040982@yahoo.es'> Escríbanos</a> o
                         <a href='tel:099-53-14-560'> llámenos</a> para aclarar
                         cualquier duda, además para consultar stock y descuentos
