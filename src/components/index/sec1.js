@@ -2,9 +2,9 @@ import React from 'react';
 
 export const Sec1 = () => {
     return (
-        <div className='shadow-sm page bgblue'>
-            <div className='row m-0 p-0 pb-5'>
-                <div className='cajatexto col-md-6 ml-md-4'>
+        <div className='page fondo bgblue'>
+            <div className='row m-0 p-0'>
+                <div className='cajatexto col-md-5 ml-md-4'>
                     <h1>Repuestos Automotrices</h1>
                     <p>
                         Somos una empresa distribuidora de repuestos
@@ -15,14 +15,14 @@ export const Sec1 = () => {
                         en compañía de un recurso humano altamente capacitado,
                         comprometido en brindarle la mejor experiencia
                     </p>
-                    <div className='float-right'>
+                    <div className='float-right mb-5'>
                         <a href='/cat.pdf' className='btn btn-dark'>
                             Ver Catálogo
                         </a>
                     </div>
                 </div>
 
-                <div className='col-md-5 pt-5'>
+                <div className='col-md-6 mb-5'>
                     <img
                         width='650'
                         alt='Car parts'
@@ -33,6 +33,12 @@ export const Sec1 = () => {
             </div>
             <style jsx>
                 {`
+                    .fondo {
+                        background-image: url('./assets/img/fondo2.svg');
+                        background-repeat: no-repeat;
+                        background-position: right bottom;
+                        background-size: 7%;
+                    }
                     .cajatexto p {
                         text-align: justify;
                     }
