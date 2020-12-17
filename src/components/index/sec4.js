@@ -12,7 +12,7 @@ export const Sec4 = () => {
                         <a href='https://wa.me/593995314560'> WhatsApp</a> o
                         Telegram.
                         <a href='mailto:ronald040982@yahoo.es'> Escríbanos</a> o
-                        <a href='tel:099-53-14-560'> llamenos</a> para aclarar
+                        <a href='tel:099-53-14-560'> llámenos</a> para aclarar
                         cualquier duda, además para consultar stock y descuentos
                         aplicables. Estamos para solucionar cualquier
                         requerimiento.
