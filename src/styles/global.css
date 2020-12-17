@@ -20,9 +20,9 @@ h3 {
     text-align: left;
 }
 p {
-    font-size: 1.5em;
+    font-size: 1.4em;
     color: #26263adc;
-    line-height: 1.6em;
+    line-height: 1.3em;
 }
 .rprshadow {
     -webkit-box-shadow: 2px 29px 132px 0px rgba(0, 0, 0, 0.5);
@@ -39,6 +39,9 @@ p {
     }
     p {
         font-size: 20px;
+    }
+    .imgfondo img {
+        border-radius: 10%;
     }
 }
 

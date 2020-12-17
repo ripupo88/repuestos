@@ -3,12 +3,12 @@ import React from 'react';
 export const Sec2 = () => {
     return (
         <div className='shadow-sm page bgdark2'>
-            <div className='row m-0 p-0 pb-5'>
+            <div id='garan' className='row m-0 p-0 pb-5'>
                 <div className='col-md-5 pt-5'>
                     <img
                         alt='Filtro de aceite'
                         className='w-100'
-                        src='./assets/img/filter.png'
+                        src='./assets/img/filter.webp'
                     />
                 </div>
                 <div className='cajatexto col-md-6 ml-md-4'>

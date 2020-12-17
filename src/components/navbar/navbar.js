@@ -7,7 +7,7 @@ export const Navbar = () => {
             <a href='/home' className='navbar-brand'>
                 <img
                     alt='Logo de la empresa'
-                    src='./rpr-logo.svg'
+                    src='./assets/img/logoempresa.png'
                     width='85'
                     alt=''
                     className='d-inline-block align-middle mr-2'
@@ -41,8 +41,8 @@ export const Navbar = () => {
                         </a>
                     </li>
                     <li className='nav-item'>
-                        <a href='#' className='nav-link'>
-                            Nosotros
+                        <a href='#garan' className='nav-link'>
+                            Garantía
                         </a>
                     </li>
                     <li className='nav-item'>
@@ -51,7 +51,7 @@ export const Navbar = () => {
                         </a>
                     </li>
                     <li className='nav-item'>
-                        <a href='#' className='nav-link'>
+                        <a href='#ContactosID' className='nav-link'>
                             Contacto
                         </a>
                     </li>

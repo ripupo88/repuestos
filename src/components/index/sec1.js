@@ -22,17 +22,21 @@ export const Sec1 = () => {
                     </div>
                 </div>
 
-                <div className='col-md-6 mb-5'>
+                <div className='col-md-6 mb-5 br-5 imgfondo'>
                     <img
-                        width='650'
+                        width='550'
                         alt='Car parts'
-                        className='w-100'
+                        className='p-md-5 img-fluid imgfondo'
                         src='./assets/img/cars.jpg'
                     />
                 </div>
             </div>
             <style jsx>
                 {`
+                    .imgfondo img {
+                        border-radius: 45%;
+                    }
+
                     .fondo {
                         background-image: url('./assets/img/fondo2.svg');
                         background-repeat: no-repeat;
