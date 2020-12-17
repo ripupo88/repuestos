@@ -9,7 +9,10 @@ export const Sec4 = () => {
                     <p>
                         Estamos a su entera disposición. Puede contactarnos a
                         través de nuestros números de teléfono, así como también
-                        WhatsApp o Telegram. Escríbanos sin dudar para aclarar
+                        <a href='https://wa.me/593995314560'> WhatsApp</a> o
+                        Telegram.
+                        <a href='mailto:ronald040982@yahoo.es'> Escríbanos</a> o
+                        <a href='tel:099-53-14-560'> llamenos</a> para aclarar
                         cualquier duda, además para consultar stock y descuentos
                         aplicables. Estamos para solucionar cualquier
                         requerimiento.
@@ -29,16 +32,20 @@ export const Sec4 = () => {
                             alt='Icono calendario'
                             className='iconsvg'
                             src='./assets/img/calend.svg'
-                        ></img>
+                        />
                         <p>Lunes a Sábado</p>
                     </div>
                     <div className='flexbox'>
                         <img
                             alt='Icono whatsapp'
                             className='icon'
-                            src='./assets/img/whatsapp.png'
+                            src='./assets/img/whatsapp.svg'
                         ></img>
-                        <p> 099 53 14 560</p>
+                        <p>
+                            <a href='https://wa.me/593995314560'>
+                                099 53 14 560
+                            </a>
+                        </p>
                     </div>
                     <div className='flexbox'>
                         <img
@@ -46,7 +53,11 @@ export const Sec4 = () => {
                             className='icon'
                             src='./assets/img/mail.svg'
                         ></img>
-                        <p> ronald040982@yahoo.es</p>
+                        <p>
+                            <a href='mailto:ronald040982@yahoo.es'>
+                                ronald040982@yahoo.es
+                            </a>
+                        </p>
                     </div>
                 </div>
 
@@ -63,6 +74,9 @@ export const Sec4 = () => {
             </div>
             <style jsx>
                 {`
+                    .cajatexto a {
+                        color: #ccccff;
+                    }
                     .cajatexto p {
                         text-align: left;
                     }
