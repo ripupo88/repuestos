@@ -42,6 +42,14 @@ export const Sec1a = () => {
                         background-position: left top;
                         background-size: 15%;
                     }
+                    .fondo1 {
+                        background-image: url('./assets/img/fondo1.svg');
+                        background-repeat: no-repeat;
+                        background-position: right bottom;
+                        background-size: 15%;
+                        -ms-transform: rotate(180deg); /* IE 9 */
+                        transform: rotate(180deg);
+                    }
                     .cajatexto p {
                         text-align: justify;
                     }

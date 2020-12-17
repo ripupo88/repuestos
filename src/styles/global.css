@@ -69,12 +69,16 @@ p {
     margin-left: 15px;
 }
 
+.bgblue p {
+    color: aliceblue;
+}
 .bgblue {
-    background-color: #daeaff;
+    background-color: #d20104;
+    color: aliceblue;
 }
 .bgdark {
     background-color: rgb(212, 212, 212);
 }
 .bgdark2 {
-    background-color: rgb(174, 172, 189);
+    background-color: rgb(255, 161, 161);
 }

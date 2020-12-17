@@ -2,7 +2,7 @@ import React from 'react';
 
 export const Sec3 = () => {
     return (
-        <div className='shadow-sm page bgblue '>
+        <div className='shadow-sm page bgdark hh'>
             <div className='row m-0 p-0 p-5 pb-5 fondofijo'>
                 <div className='cajatexto col-md-6 m-0 p-0 '></div>
                 <div className='cajatexto col-md-6 float-right fondotexto'>
@@ -15,6 +15,9 @@ export const Sec3 = () => {
                 </div>
                 <style jsx>
                     {`
+                        .hh {
+                            height: 95vh;
+                        }
                         .fondotexto {
                             background: #ffffffbb;
                             border-radius: 15px;
@@ -23,7 +26,6 @@ export const Sec3 = () => {
                             padding: 20px;
                         }
                         .fondofijo {
-                            height: 20%;
                             background-image: url('./assets/img/bigagree.jpg');
                             background-attachment: fixed;
                             background-size: auto 100vh;

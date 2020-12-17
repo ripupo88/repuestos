@@ -34,7 +34,7 @@ export const Sec1 = () => {
             <style jsx>
                 {`
                     .imgfondo img {
-                        border-radius: 45%;
+                        border-radius: 95px;
                     }
 
                     .fondo {

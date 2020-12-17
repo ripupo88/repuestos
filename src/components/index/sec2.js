@@ -3,7 +3,7 @@ import Typewriter from 'typewriter-effect';
 
 export const Sec2 = () => {
     return (
-        <div className='shadow-sm page bgdark2'>
+        <div className='shadow-sm page bgblue'>
             <div id='garan' className='row m-0 p-0 pb-5'>
                 <div className='col-md-5 pt-5'>
                     <img
