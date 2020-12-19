@@ -4,9 +4,9 @@ export const Sec4 = () => {
     return (
         <div className='shadow-sm page bgblue'>
             <div id='ContactosID' className='row m-0 p-0 pb-5'>
-                <div className='cajatexto col-md-6 ml-md-4'>
+                <div className='cajatexto pb-5 col-md-7 ml-md-4'>
                     <h3>Contacto</h3>
-                    <p>
+                    <p className='pb-3'>
                         Estamos a su entera disposición. Puede contactarnos a
                         través de nuestros números de teléfono, así como también
                         <a href='https://wa.me/593995314560'> WhatsApp</a> o
@@ -17,8 +17,7 @@ export const Sec4 = () => {
                         aplicables. Estamos para solucionar cualquier
                         requerimiento.
                     </p>
-                </div>
-                <div className='cajatexto col-md-5 m-5 p-0'>
+                    <hr />
                     <div className='flexbox'>
                         <img
                             alt='icono reloj'
@@ -59,6 +58,13 @@ export const Sec4 = () => {
                             </a>
                         </p>
                     </div>
+                </div>
+                <div className='cajatexto col-md-3 m-5 p-0'>
+                    <img
+                        alt='Llamenos img'
+                        className='img-fluid'
+                        src='./assets/img/cont.png'
+                    />
                 </div>
 
                 <iframe
