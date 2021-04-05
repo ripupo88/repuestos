@@ -42,7 +42,19 @@ gtag('config', 'G-HVBVWSP1Z1');
                     <Component {...pageProps} />
                     <footer className='col-12'>
                         <p>
-                            Copyright &copy; 2020{' '}
+                            <b>Política Empresarial</b> Nuestra forma de trabajo
+                            y políticas de pagos al ser Distribuidores
+                            Automotrices Autorizados consiste en un acuerdo
+                            entre cliente y proveedor, con el fin de garantizar
+                            un punto medio que sea satisfactorio para las partes
+                            involucradas: Créditos hasta 30 días dependiendo del
+                            monto de la compra. Pagos en efectivo en el momento
+                            de la entrega de la mercadería hasta un 10% de
+                            descuento. Los pagos se pueden efectuar: En cheques,
+                            depósitos bancarios y en efectivo.
+                        </p>
+                        <p>
+                            Copyright &copy; 2021{' '}
                             <img
                                 alt='Logo de la empresa'
                                 src='./rpr-logo.svg'

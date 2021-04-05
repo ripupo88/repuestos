@@ -26,11 +26,13 @@ export const Sec2 = () => {
                         />
                     </h2>
                     <p>
-                        Nuestros precios competitivos nos hace únicos, nos
-                        caracteriza la calidad de nuestros productos, trabajamos
-                        con las mejores marcas pudiendo garantizarlas para la
-                        satisfacción y tranquilidad de los clientes, porque tú
-                        eres nuestra prioridad.
+                        Nuestros competitivos precios nos hacen únicos, nos
+                        caracterizamos por la calidad de los productos que
+                        Distribuimos, estamos respaldados como Distribuidores
+                        Automotrices por las mejores marcas, pudiendo otorgar
+                        hasta 6 meses de garantía en todas nuestras marcas, para
+                        la satisfacción y tranquilidad de nuestros clientes,
+                        porque tú eres nuestra prioridad.
                     </p>
                     <div className='float-right'>
                         <a href='/cat.pdf' className='btn btn-dark'>

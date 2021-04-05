@@ -9,8 +9,9 @@ export const Sec3 = () => {
                     <h2>Tabajamos para ti</h2>
                     <p>
                         Nuestra prioridad eres tú, por eso nos esforzamos al
-                        máximo para mantener los tiempos de entrega en el menor
-                        tiempo posible, no queremos hacerte esperar.
+                        máximo para satisfacer tus necesidades y mantener los
+                        tiempos de entrega en el menor tiempo posible, no
+                        queremos hacerte esperar.
                     </p>
                 </div>
                 <style jsx>
