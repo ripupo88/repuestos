@@ -15,20 +15,19 @@ export const Sec1a = () => {
                             que nos garantizan como valor principal, máxima
                             confianza, durabilidad y una relación calidad-Precio
                             de todos nuestros productos como ningún otro
-                            distribuidor. Cambiar los logos, solo dejar LASSER y
-                            los otros sustituir por CTR y GM{' '}
+                            distribuidor.{' '}
                         </p>
                     </div>
                     <div className='flexbox-center'>
                         <img
                             alt='Marca 1'
                             className='img-fluid'
-                            src='./assets/img/rw.jpg'
+                            src='./assets/img/ctr.png'
                         />
                         <img
                             alt='Marca 2'
                             className='img-fluid'
-                            src='./assets/img/ranger.jpg'
+                            src='./assets/img/ranger.png'
                         />
                         <img
                             alt='Marca 3'

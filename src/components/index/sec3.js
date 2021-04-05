@@ -6,7 +6,7 @@ export const Sec3 = () => {
             <div className='row m-0 p-0 p-5 pb-5 fondofijo'>
                 <div className='cajatexto col-md-6 m-0 p-0 '></div>
                 <div className='cajatexto col-md-6 float-right fondotexto'>
-                    <h2>Tabajamos para ti</h2>
+                    <h2>Trabajamos para ti</h2>
                     <p>
                         Nuestra prioridad eres tú, por eso nos esforzamos al
                         máximo para satisfacer tus necesidades y mantener los
