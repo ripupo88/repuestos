@@ -46,8 +46,21 @@ export const Navbar = () => {
                         </a>
                     </li>
                     <li className='nav-item'>
-                        <a href='/cat.pdf' className='nav-link'>
-                            Catálogo
+                        <a
+                            href='/cat1.pdf'
+                            target='_blank'
+                            className='nav-link'
+                        >
+                            Catálogo 1
+                        </a>
+                    </li>
+                    <li className='nav-item'>
+                        <a
+                            href='/cat2.pdf'
+                            target='_blank'
+                            className='nav-link'
+                        >
+                            Catálogo 2
                         </a>
                     </li>
                     <li className='nav-item'>
